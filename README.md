@@ -14,4 +14,4 @@
 這個專案已加入 GitHub Actions，推送到 `main` 分支後會自動建置並部署到 GitHub Pages。
 
 部署網址預設會是：
-https://fly761002-prog.github.io/Racing_Game/
+https://fly761002-prog.github.io/-Racing_Game/

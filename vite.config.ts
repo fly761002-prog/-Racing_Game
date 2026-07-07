@@ -4,7 +4,7 @@ import path from 'path';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/Racing_Game/',
+  base: '/-Racing_Game/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
