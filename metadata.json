@@ -1,6 +1,0 @@
-{
-  "name": "娛樂稅極速挑戰：第一人稱賽車冒險",
-  "description": "一款結合第一人稱賽車與娛樂稅宣導的教育遊戲。玩家將在高速賽車、挑戰娛樂稅知識，撞擊正確答案奪得高分！",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

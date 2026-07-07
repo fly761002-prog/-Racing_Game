@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Racing_Game
 
-# Run and deploy your AI Studio app
+這是一個使用 React + Vite 建立的賽車教育遊戲，已調整為可直接部署到 GitHub Pages。
 
-This contains everything you need to run your app locally.
+## 本機開發
 
-View your app in AI Studio: https://ai.studio/apps/7293be7a-346e-40bc-a75f-740b3eeaa551
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
+1. 安裝依賴：
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. 啟動開發伺服器：
    `npm run dev`
+
+## GitHub Pages 自動部署
+
+這個專案已加入 GitHub Actions，推送到 `main` 分支後會自動建置並部署到 GitHub Pages。
+
+部署網址預設會是：
+https://fly761002-prog.github.io/Racing_Game/
